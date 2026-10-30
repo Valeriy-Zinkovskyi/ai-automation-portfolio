@@ -18,6 +18,10 @@ flowchart LR
     C --> F[Notify manager in Telegram]
 ```
 
+## Workflow screenshot
+
+![AI lead qualification and CRM routing workflow](../assets/ai-lead-qualification-crm/workflow-overview.jpg)
+
 ## Main steps
 
 1. Accept the submitted form fields and customer comment through a webhook.

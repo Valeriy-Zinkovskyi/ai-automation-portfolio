@@ -17,6 +17,22 @@ flowchart LR
     D --> E[Calculate call statistics]
 ```
 
+## Workflow screenshots
+
+**Transcription and AI analysis pipeline**
+
+![Call transcription and analysis workflow](../assets/ai-call-analysis/workflow-transcription-and-analysis.jpg)
+
+**Statistics calculation**
+
+![Call statistics workflow](../assets/ai-call-analysis/workflow-statistics.jpg)
+
+**AI assistant for call statistics**
+
+![AI call statistics assistant](../assets/ai-call-analysis/ai-call-stats-agent.jpg)
+
+The canvas captures show workflow structure. Red warning markers visible in some captures refer to environment-specific credentials or configuration; screenshots do not include credentials.
+
 ## Main steps
 
 1. Read queued recording URLs from Google Sheets.

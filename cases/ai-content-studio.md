@@ -21,6 +21,24 @@ flowchart LR
     E -->|Reject| H[Mark rejected]
 ```
 
+## Workflow screenshots
+
+**1. Draft generation and content quality checks**
+
+![Content draft generator workflow](../assets/ai-content-studio/workflow-01-content-draft-generator.jpg)
+
+**2. Telegram approval, revision, and rejection handling**
+
+![Telegram approval handler workflow](../assets/ai-content-studio/workflow-02-telegram-approval-handler.jpg)
+
+**3. Scheduled Telegram publishing**
+
+![Scheduled Telegram publisher workflow](../assets/ai-content-studio/workflow-03-scheduled-telegram-publisher.jpg)
+
+**4. Error notifications**
+
+![Workflow error notifications](../assets/ai-content-studio/workflow-04-error-notifications.jpg)
+
 ## Main steps
 
 1. Read brand voice, audience, language, and content limits from Google Sheets.
