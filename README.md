@@ -29,4 +29,4 @@ These are portfolio and learning projects built around realistic business scenar
 
 ## Contact
 
-- GitHub: [@Valerjan-1](https://github.com/Valerjan-1)
+- GitHub: [@Valeriy-Zinkovskyi](https://github.com/Valeriy-Zinkovskyi)
