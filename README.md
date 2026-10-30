@@ -9,6 +9,7 @@ My background in full-stack development helps me understand how web applications
 
 | Project | What it does | Tools |
 |---|---|---|
+| [AI Lead Qualification & CRM Automation](cases/ai-lead-qualification-crm.md) | Qualifies website leads with AI and routes them to CRM, marketing automation, and Telegram. | n8n, OpenAI API, Zoho CRM, Klaviyo, Telegram Bot API |
 | [AI Content Studio](cases/ai-content-studio.md) | Generates social content, routes drafts through Telegram approval, and schedules approved posts. | n8n, OpenAI API, Google Sheets, Google Drive, Telegram Bot API |
 | [AI Call Analysis](cases/ai-call-analysis.md) | Transcribes Ukrainian calls, classifies tone and topic, and stores structured results for reporting. | n8n, AssemblyAI, OpenAI API, Google Sheets |
 | [Gmail AI Assistant](cases/gmail-ai-assistant.md) | Summarizes incoming email, identifies priority and next steps, then records the result and sends a notification. | n8n, Gmail, OpenAI API, Google Sheets, Telegram |
